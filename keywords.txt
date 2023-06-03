@@ -1,0 +1,16 @@
+# Syntax Colouring Map For rotaryDecoder
+
+# Data types (KEYWORD1)
+Rotary_I2C	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+encoder_set	KEYWORD2
+encoder_setValue	KEYWORD2
+encoder_getValue	KEYWORD2
+encoder_isPressed		KEYWORD2
+
+
+
+
+# Constants (LITERAL1)
+ROTARY_DECODER_LIB_VERSION	LITERAL1
